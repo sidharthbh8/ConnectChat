@@ -2,6 +2,10 @@
 
 ConnectChat is a real-time chat and room creation web app that allows users to chat with each other, create chat rooms, and share their locations.
 
+## Live Demo
+
+Check out the live demo of ConnectChat: [ConnectChat Live Demo](https://connectchat-server.onrender.com)
+
 ## Features
 
 - **Real-Time Chat**: Enjoy real-time messaging with other users.
